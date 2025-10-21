@@ -1,0 +1,3 @@
+/media/yuri/shared_disk/code/autonomous_astar_planner_visual/build/CMakeFiles/astar_planner.dir
+/media/yuri/shared_disk/code/autonomous_astar_planner_visual/build/CMakeFiles/edit_cache.dir
+/media/yuri/shared_disk/code/autonomous_astar_planner_visual/build/CMakeFiles/rebuild_cache.dir
