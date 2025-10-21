@@ -10,7 +10,7 @@ make
 
 # 3. 运行Python可视化
 cd ..
-python visualize_astar.py
+python3 visualize_astar.py
 
 # 4. 在可视化界面选择：
 #    - 输入 1 查看动画搜索过程
